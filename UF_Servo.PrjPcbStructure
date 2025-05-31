@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=PID.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=PID.SchDoc|Designator=U_Cap_Mux|SchDesignator=U_Cap_Mux|FileName=Cap_Mux.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Cap_Mux.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PID.SchDoc|FileName=DAC.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=PID.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=PID.SchDoc|FileName=UF_Servo.SchDoc|SheetNumber=1
