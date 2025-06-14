@@ -44,12 +44,30 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=DIOT
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=UF_Servo.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PITKDOHQ
+
+[Document2]
 DocumentPath=UF_Servo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWJLYJAS
 
-[Document2]
+[Document3]
 DocumentPath=PID.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWCJHTPA
 
-[Document3]
+[Document4]
 DocumentPath=Cap_Array_100p_400n.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFQHWKOS
 
-[Document4]
+[Document5]
 DocumentPath=DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,23 +134,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIWWKVSA
-
-[Document5]
-DocumentPath=UF_Servo.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PITKDOHQ
 
 [Document6]
 DocumentPath=Cap_Array_100p_16u.SchDoc
@@ -169,23 +170,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HTJCRALU
 
 [Document8]
-DocumentPath=IO_Expander.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=CPCIS_Connectors_P1_P6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMUUFYQV
 
-[Document10]
+[Document9]
 DocumentPath=Data_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDETUMAR
 
-[Document11]
+[Document10]
 DocumentPath=EEM_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGBTAUBO
 
-[Document12]
+[Document11]
 DocumentPath=Isolated_Power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAGXQVBI
 
-[Document13]
+[Document12]
 DocumentPath=Optocouplers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNDJJGUF
 
-[Document14]
+[Document13]
 DocumentPath=CPCIS_Connectors_P1_P6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=EEM_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=Data_Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=Isolated_Power_supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,24 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
-DocumentPath=PID.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
+[Document17]
 DocumentPath=Cap_Array_100p_400n.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=Cap_Array_100p_16u.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,8 +356,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=DAC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=IO_Expander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -423,12 +407,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=revision
-Value=1.0
-
-[Parameter2]
 Name=CreateDate
 Value=5/28/2025
+
+[Parameter2]
+Name=revision
+Value=1.0
 
 [Configuration1]
 Name=Sources
