@@ -44,7 +44,7 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=DIOT
+CurrentVariant=EEM
 
 [Preferences]
 PrefsVaultGUID=
@@ -391,7 +391,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EZGGBCQI
 
 [Document21]
-DocumentPath=IO_Expander.Harness
+DocumentPath=PID.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -408,7 +408,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=PID.Harness
+DocumentPath=IO_Expander.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -429,7 +429,10 @@ UniqueId=24cac585-1e23-4174-aaf5-4d0c58221ed3
 Description=DIOT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=3
+Variation1=Designator=R78|UniqueId=\FWOJNTXQ\NQTWMXSR|Kind=1|AlternatePart=
+Variation2=Designator=R225A|UniqueId=\DBMGMWRH\XRFPHDZO|Kind=1|AlternatePart=
+Variation3=Designator=R225B|UniqueId=\GOUCJKAX\XRFPHDZO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -437,7 +440,10 @@ UniqueId=b4ee5660-379a-4214-be74-48f589bdd800
 Description=EEM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=3
+Variation1=Designator=R78|UniqueId=\FWOJNTXQ\NQTWMXSR|Kind=1|AlternatePart=
+Variation2=Designator=R225A|UniqueId=\DBMGMWRH\XRFPHDZO|Kind=1|AlternatePart=
+Variation3=Designator=R225B|UniqueId=\GOUCJKAX\XRFPHDZO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
